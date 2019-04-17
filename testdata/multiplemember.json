@@ -1,0 +1,36 @@
+{
+    "member1":
+{
+    "userid": "liebao3",
+    "name": "猎豹1",
+    "alias": "liebao",
+    "mobile": "16913215431",
+    "department": [0, 45],
+    "order":[0,40],
+    "position": "开发经理",
+    "gender": "1",
+    "email": "liebao@gzdev.com",
+    "is_leader_in_dept": [1, 0],
+    "enable":1,
+    "avatar_mediaid": "2FA6SlMIgOiW0jbxks3fztkv9dm8Pw7E7AORvW2Xq-SY",
+    "telephone": "021-1223456",
+    "address": "广州市海珠区新港中路"
+},
+        "member2":
+{
+    "userid": "liebao",
+    "name": "猎豹",
+    "alias": "liebao",
+    "mobile": "16913215421",
+    "department": [41, 45],
+    "order":[10,40],
+    "position": "产品经理",
+    "gender": "1",
+    "email": "liebao@gzdev.com",
+    "is_leader_in_dept": [1, 0],
+    "enable":1,
+    "avatar_mediaid": "2FA6SlMIgOiW0jbxks3fztkv9dm8Pw7E7AORvW2Xq-SY",
+    "telephone": "021-1223456",
+    "address": "广州市海珠区新港中路"
+}
+}

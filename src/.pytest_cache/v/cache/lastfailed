@@ -1,0 +1,7 @@
+{
+  "testcases/contact/department/test_create_dep.py::TestCreateDep::test_create_new_dep": true,
+  "testcases/contact/department/test_create_dep.py::TestCreateDep::test_create_new_dep_by_para[\\u4ea7\\u54c1\\u90e8\\u95e8]": true,
+  "testcases/contact/department/test_create_dep.py::TestCreateDep::test_create_new_dep_by_para[\\u6d4b\\u8bd5\\u90e8\\u95e8]": true,
+  "testcases/contact/department/test_create_dep.py::TestCreateDep::test_create_new_dep_by_para[\\u8d22\\u52a1\\u90e8]": true,
+  "testcases/contact/member/test_create_member.py::TestCreateMember::test_create_new_member": true
+}
